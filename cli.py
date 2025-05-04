@@ -1,4 +1,3 @@
-# cli.py
 from db import init_db, add_entry
 import json
 from datetime import datetime
